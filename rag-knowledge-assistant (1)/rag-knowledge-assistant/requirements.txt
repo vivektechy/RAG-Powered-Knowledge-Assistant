@@ -1,0 +1,19 @@
+fastapi==0.115.9
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1
+pydantic==2.9.2
+
+# Vector store: plain numpy cosine-similarity search (app/vector_store.py) —
+# no chromadb, since chroma-hnswlib has no prebuilt wheel for newer Python
+# versions on Windows and needs a C++ compiler to build from source.
+numpy
+
+# LLM + embeddings via API (no local model downloads, no GPU/torch needed)
+openai==1.54.4
+
+# Document loading
+pypdf==5.1.0
+
+# UI
+streamlit==1.40.1
+requests==2.32.3

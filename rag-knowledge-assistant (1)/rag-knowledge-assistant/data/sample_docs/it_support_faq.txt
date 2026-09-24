@@ -1,0 +1,34 @@
+IT SUPPORT FAQ
+
+Q: How do I reset my company password?
+A: Go to portal.company.com/reset, enter your employee ID, and follow the
+email verification steps. Passwords must be at least 12 characters and
+include one number and one special character. Password resets are also
+available by calling the IT helpdesk at extension 4040.
+
+Q: How do I get a new laptop?
+A: Submit a hardware request through the IT Service Desk portal under
+"Asset Requests." Standard laptop requests are fulfilled within 5 business
+days. Urgent requests (device failure, new hire starting within 48 hours)
+should be flagged as "Priority" and are typically fulfilled within 1 business day.
+
+Q: How do I connect to the office VPN?
+A: Install the GlobalProtect VPN client from the Software Center, then log
+in with your standard company credentials. VPN access must first be
+approved by your manager through the Access Request form.
+
+Q: Who do I contact for software installation requests?
+A: Standard approved software (listed in the Software Catalog) can be
+self-installed via the Software Center. Non-standard software requires
+a request through IT with manager approval, and is reviewed by the
+Security team before installation.
+
+Q: What do I do if I suspect a phishing email?
+A: Do not click any links or download attachments. Use the "Report Phishing"
+button in Outlook, which forwards the email directly to the Security team.
+Do not forward suspicious emails manually.
+
+Q: How long does the IT helpdesk take to respond?
+A: Standard tickets: within 1 business day. High priority tickets (system
+down, security incident): within 1 hour. The helpdesk is available
+Monday-Friday, 9 AM - 6 PM.
